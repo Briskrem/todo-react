@@ -1,0 +1,18 @@
+.Box{
+    margin: 0px;
+}
+span{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    color: red;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Box-C{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
